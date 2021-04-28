@@ -1,0 +1,20 @@
+{
+  "name": "miapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miapp.js",
+  "scripts": {
+    "start": "node miapp.js",
+    "server": "nodemon miapp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:msalimbe/dev-content.git"
+  },
+  "author": "Matias Salimbene",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
